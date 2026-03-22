@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="1280" height="720" alt="portsleuth_pro_thumbnail" src="https://github.com/user-attachments/assets/43a22daf-d381-44b7-8948-508fa5f660f8" />
+
 # 🔍 PortSleuth Pro
 
 ### Advanced Multi-Threaded Network Port Scanner with Professional Report Generation
@@ -8,7 +10,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-64748b?style=for-the-badge)](#)
 [![Purpose](https://img.shields.io/badge/Purpose-Authorized%20Security%20Testing-f59e0b?style=for-the-badge)](#-security--ethical-use)
-<img width="1410" height="1078" alt="image" src="https://github.com/user-attachments/assets/9c1f5783-0e32-4e8a-be74-11d78b77968a" />
+
+
 
 
 <br/>
